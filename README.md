@@ -1,2 +1,2 @@
 # finance-manager
-Grade 12 ICS IA (Finance Manager)
+ICS IA (Finance Manager)
